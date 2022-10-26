@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+
+# PyCharm
+.idea/
+
+# Local data files
+/data/
+/models/
+/libs/
